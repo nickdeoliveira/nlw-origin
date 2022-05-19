@@ -126,7 +126,7 @@ section .content p {
 
 .button:hover{
   background-color: var(--brand-dark);
-  transition: background 200ms;
+  transition: 200ms;
 }
 
  /* CUSTOM COLORS */
